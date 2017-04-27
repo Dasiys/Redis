@@ -1,0 +1,13 @@
+F:\project\RedisTest\RedisTest\bin\Debug\RedisTest.exe.config
+F:\project\RedisTest\RedisTest\bin\Debug\RedisTest.exe
+F:\project\RedisTest\RedisTest\bin\Debug\RedisTest.pdb
+F:\project\RedisTest\RedisTest\bin\Debug\ServiceStack.Interfaces.dll
+F:\project\RedisTest\RedisTest\obj\Debug\RedisTest.csprojResolveAssemblyReference.cache
+F:\project\RedisTest\RedisTest\obj\Debug\RedisTest.exe
+F:\project\RedisTest\RedisTest\obj\Debug\RedisTest.pdb
+F:\project\RedisTest\RedisTest\bin\Debug\ServiceStack.Common.dll
+F:\project\RedisTest\RedisTest\bin\Debug\ServiceStack.Redis.dll
+F:\project\RedisTest\RedisTest\bin\Debug\ServiceStack.Text.dll
+F:\project\RedisTest\RedisTest\bin\Debug\ServiceStack.Common.xml
+F:\project\RedisTest\RedisTest\bin\Debug\ServiceStack.Redis.xml
+F:\project\RedisTest\RedisTest\bin\Debug\ServiceStack.Text.xml
